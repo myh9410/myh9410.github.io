@@ -31,11 +31,11 @@ sidebar:
         link:
 
 award:
-   - name: 2018 Whale Extension App Contest 1st Award
+    - name: 2018 Whale Extension App Contest 1st Award
       time: 2018 December
       location: Naver Green Factory
       details: |
-        - An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
+       - An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
     
     - name: 2020 Naver Burning Day
       time: 2020 February
