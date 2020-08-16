@@ -107,20 +107,6 @@ projects:
         tagline: "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
 
 
-Certification:
-    
-    - title: Launcing into Machine Learning
-      time: 2019 April
-      location: Coursera 
-      details: |
-        - Google Machine Learning study jam
-         
-    - title: Getting Started with Google Kubernetes Engine
-      time: 2019 Match
-      location: Coursera
-      details: |
-        - Google Cloud study jam
-
 skills:
     title: Skills &amp; Proficiency
 
