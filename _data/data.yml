@@ -41,7 +41,7 @@ award:
       time: 2020 February
       location: Naver
       details: |
-        - Extended app for blind people
+        - An extension App for low vision patient's web surfing - JavaScript, MongoDB
 
 education:
     - degree: Computer Science, Graduated
@@ -115,10 +115,10 @@ skills:
         level: 90%
 
       - name: Vue.js
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 80%
 
       - name: JavaScript
         level: 80%
