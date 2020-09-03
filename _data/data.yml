@@ -103,7 +103,7 @@ projects:
         tagline: "Making Web Page Introducing Apartment Sales Information using Vue.js and Spring"
    
       - title: A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
-        link: "#"
+        link: "https://github.com/myh9410/GoodDoc-Proj"
         tagline: "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
 
 
