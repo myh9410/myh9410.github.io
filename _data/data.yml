@@ -66,11 +66,16 @@ experiences:
         - 머지테스트와 인사DB연동에 대한 tc 제작 및 수행, 서버 및 클라이언트 및 b2b제품에 대한 개발자 테스트 및 블랙박스 형식의 테스트 수행
          
     - role: SSAFY (Samsung Software Academy For Youth)
-      time: 2020 - Present
+      time: 2020.01 - 2020.10
       company: SSAFY, Seoul
       details: |
         - SSAFY과정 3기, 2학기 진학중
-        
+    
+    - role: Back-End Developer
+      time: 2020.11 - 
+      company: Gabia
+      details: |
+        - 가비아, 하이웍스개발팀
 
 projects:
     title: Projects
