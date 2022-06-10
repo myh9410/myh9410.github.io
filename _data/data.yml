@@ -84,19 +84,19 @@ projects:
 
     assignments:
       - title: Gabia - API 중계 Proxy 서버 구축, 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리
-          tagline: "Java, SpringBoot, Sentry"
+        tagline: "Java, SpringBoot, Sentry"
 
       - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
-          tagline: "PHP, Laravel"
+        tagline: "PHP, Laravel"
 
       - title: Gabia - 데모오피스 세팅 자동화 처리
-          tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
+        tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
 
       - title: GoodDoc - 의료시설 리뷰 및 정보조회 웹페이지 개발
-          # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
-          link: "https://github.com/myh9410/GoodDoc-Proj"
-          tagline: "Java, SpringBoot, Vue.js MySQL 스터디"
-          # "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
+        # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
+        link: "https://github.com/myh9410/GoodDoc-Proj"
+        tagline: "Java, SpringBoot, Vue.js MySQL 스터디"
+        # "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
 
       - title: 아파트 매매정보 조회 웹페이지 개발
         # A Web Page for Aptmt Sales Information - Vue.js, Java, Spring
@@ -105,22 +105,22 @@ projects:
         # "Making Web Page Introducing Apartment Sales Information using Vue.js and Spring"
 
       - title: AI 버닝데이 해커톤 - MindReader
-          # An extension App for low vision patient's web surfing - JavaScript, MongoDB
-          link: "https://github.com/NaverBunningDay-ShareHouse"
-          tagline: "시각장애우들을 위한 웹서핑도우미 개발 - JavaScript, MongoDB"
-          # "In 2020 Naver AI BurningDay Hackathon , Making Web extension App api server & MongoDB for url domain saving"
+        # An extension App for low vision patient's web surfing - JavaScript, MongoDB
+        link: "https://github.com/NaverBunningDay-ShareHouse"
+        tagline: "시각장애우들을 위한 웹서핑도우미 개발 - JavaScript, MongoDB"
+        # "In 2020 Naver AI BurningDay Hackathon , Making Web extension App api server & MongoDB for url domain saving"
 
       - title: 음식점 추천 챗봇
-          # A Restaurant Recommending Chatbot  - Node.js, Heroku, Dialogflow, Facebook api
-          link: "https://github.com/myh9410/restaurant-recommending-bot"
-          tagline: "음식점 추천 챗봇 개발 - Node.js, Heroku, Dialogflow, PostgreSQL, Facebook api"
-          # "Making Simple Project building chatbot using dialogflow, Heroku"
+        # A Restaurant Recommending Chatbot  - Node.js, Heroku, Dialogflow, Facebook api
+        link: "https://github.com/myh9410/restaurant-recommending-bot"
+        tagline: "음식점 추천 챗봇 개발 - Node.js, Heroku, Dialogflow, PostgreSQL, Facebook api"
+        # "Making Simple Project building chatbot using dialogflow, Heroku"
 
       - title: 네이버 D2 공모전 - OnePage
-          # A Web Page for News articles on large screen  - Node.js, MariaDB, JavaScript, Firebase
-          link: "https://github.com/naver-d2-one-page"
-          tagline: "대형스크린을 위한 뉴스기사 레이아웃 개발 - Node.js, MariaDB, JavaScript, Firebase"
-          # "Making Web Page showing news articles on large screen using JavaScript"
+        # A Web Page for News articles on large screen  - Node.js, MariaDB, JavaScript, Firebase
+        link: "https://github.com/naver-d2-one-page"
+        tagline: "대형스크린을 위한 뉴스기사 레이아웃 개발 - Node.js, MariaDB, JavaScript, Firebase"
+        # "Making Web Page showing news articles on large screen using JavaScript"
 
       - title: 웨일 확장앱 콘테스트 - PDFasT
         # An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
