@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: YongHo Moon
-    tagline: Back-End Developer
+    tagline: Backend & Server Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,17 +31,18 @@ sidebar:
         link:
 
 award:
+    - name: 2020 Naver Burning Day
+      time: 2020 February
+      location: Naver
+      details: |
+        - An extension App for low vision patient's web surfing - JavaScript, MongoDB
+
     - name: 2018 Whale Extension App Contest 1st Award
       time: 2018 December
       location: Naver Green Factory
       details: |
        - An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
     
-    - name: 2020 Naver Burning Day
-      time: 2020 February
-      location: Naver
-      details: |
-        - An extension App for low vision patient's web surfing - JavaScript, MongoDB
 
 education:
     - degree: Computer Science, Graduated
@@ -58,24 +59,23 @@ education:
       details: 
 
 experiences:
-    
-    - role: QA Intern
-      time: 2018.07.02 - 2018.12.31
-      company: ESTsoft , Seoul
+    - role: Back-End Developer
+      time: 2020.11 -
+      company: Gabia
       details: |
-        - 머지테스트와 인사DB연동에 대한 tc 제작 및 수행, 서버 및 클라이언트 및 b2b제품에 대한 개발자 테스트 및 블랙박스 형식의 테스트 수행
-         
+        - 가비아, 백엔드 개발
+
     - role: SSAFY (Samsung Software Academy For Youth)
       time: 2020.01 - 2020.10
       company: SSAFY, Seoul
       details: |
         - SSAFY과정 3기, 2학기 진학중
-    
-    - role: Back-End Developer
-      time: 2020.11 - 
-      company: Gabia
+
+    - role: QA Intern
+      time: 2018.07.02 - 2018.12.31
+      company: ESTsoft , Seoul
       details: |
-        - 가비아, 백엔드 개발
+        - 머지테스트와 인사DB연동에 대한 tc 제작 및 수행, 서버 및 클라이언트 및 b2b제품에 대한 개발자 테스트 및 블랙박스 형식의 테스트 수행
 
 projects:
     title: Projects
@@ -83,69 +83,71 @@ projects:
       My personal projects & Team projects
 
     assignments:
+
+    - title: Gabia - API 중계 Proxy 서버 구축
+        tagline: "인증없는 구 API들을 사용하기 위한 Ingress를 통한 인증 layer 아래에서 동작. 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리 
+        <br> - Java, SpringBoot, Sentry"
+
+    - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
+        tagline: "PHP, Laravel"
+
+    - title: Gabia - 데모오피스 세팅 자동화 처리
+        tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
+
+      - title: GoodDoc - 의료시설 리뷰 및 정보조회 웹페이지 개발
+          # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
+          link: "https://github.com/myh9410/GoodDoc-Proj"
+          tagline: "Java, SpringBoot, Vue.js MySQL 스터디"
+          # "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
+
+      - title: 아파트 매매정보 조회 웹페이지 개발
+        # A Web Page for Aptmt Sales Information - Vue.js, Java, Spring
+        link: "https://github.com/myh9410/Spring_Aptmt"
+        tagline: "Java, Spring, Vue.js 스터디"
+        # "Making Web Page Introducing Apartment Sales Information using Vue.js and Spring"
+
+      - title: AI 버닝데이 해커톤 - MindReader
+          # An extension App for low vision patient's web surfing - JavaScript, MongoDB
+          link: "https://github.com/NaverBunningDay-ShareHouse"
+          tagline: "시각장애우들을 위한 웹서핑도우미 개발 - JavaScript, MongoDB"
+          # "In 2020 Naver AI BurningDay Hackathon , Making Web extension App api server & MongoDB for url domain saving"
+
+      - title: 음식점 추천 챗봇
+          # A Restaurant Recommending Chatbot  - Node.js, Heroku, Dialogflow, Facebook api
+          link: "https://github.com/myh9410/restaurant-recommending-bot"
+          tagline: "음식점 추천 챗봇 개발 - Node.js, Heroku, Dialogflow, PostgreSQL, Facebook api"
+          # "Making Simple Project building chatbot using dialogflow, Heroku"
+
+      - title: 네이버 D2 공모전 - OnePage
+          # A Web Page for News articles on large screen  - Node.js, MariaDB, JavaScript, Firebase
+          link: "https://github.com/naver-d2-one-page"
+          tagline: "대형스크린을 위한 뉴스기사 레이아웃 개발 - Node.js, MariaDB, JavaScript, Firebase"
+          # "Making Web Page showing news articles on large screen using JavaScript"
+
       - title: 웨일 확장앱 콘테스트 - PDFasT
         # An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
         link: "https://github.com/Whale-Extension-App-PDFasT"
         tagline: "pdf.js와 파파고를 활용한 웨일 브라우저에서의 pdf문서 번역 도우미 - React, Jquery, PHP"
         # "During one month, Making An extension App for quick search, including translations, notes, and searches in pdf with React, Jquery & PHP"
 
-      - title: 네이버 D2 공모전 - OnePage
-        # A Web Page for News articles on large screen  - Node.js, MariaDB, JavaScript, Firebase
-        link: "https://github.com/naver-d2-one-page"
-        tagline: "대형스크린을 위한 뉴스기사 레이아웃 개발 - Node.js, MariaDB, JavaScript, Firebase"
-        # "Making Web Page showing news articles on large screen using JavaScript"
-
-      - title: 음식점 추천 챗봇
-        # A Restaurant Recommending Chatbot  - Node.js, Heroku, Dialogflow, Facebook api
-        link: "https://github.com/myh9410/restaurant-recommending-bot"
-        tagline: "음식점 추천 챗봇 개발 - Node.js, Heroku, Dialogflow, PostgreSQL, Facebook api"
-        # "Making Simple Project building chatbot using dialogflow, Heroku"
-      
-      - title: AI 버닝데이 해커톤 - MindReader
-        # An extension App for low vision patient's web surfing - JavaScript, MongoDB
-        link: "https://github.com/NaverBunningDay-ShareHouse"
-        tagline: "시각장애우들을 위한 웹서핑도우미 개발 - JavaScript, MongoDB"
-        # "In 2020 Naver AI BurningDay Hackathon , Making Web extension App api server & MongoDB for url domain saving"
-     
-      - title: 아파트 매매정보 조회 웹페이지 개발
-        # A Web Page for Aptmt Sales Information - Vue.js, Java, Spring
-        link: "https://github.com/myh9410/Spring_Aptmt"
-        tagline: "Java, Spring, Vue.js 스터디"
-        # "Making Web Page Introducing Apartment Sales Information using Vue.js and Spring"
-   
-      - title: GoodDoc - 의료시설 리뷰 및 정보조회 웹페이지 개발
-        # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
-        link: "https://github.com/myh9410/GoodDoc-Proj"
-        tagline: "Java, SpringBoot, Vue.js MySQL 스터디"
-        # "Making SNS Web Page with review about medical treatment using Vue.js and Spring"
-
-      - title: Gabia - API 중계 Proxy 서버 구축
-        tagline: "인증없는 구 API들을 사용하기 위한 Ingress를 통한 인증 layer 아래에서 동작. 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리 - Java, SpringBoot, Sentry"
-
-      - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
-        tagline: "PHP, Laravel"
-
-      - title: Gabia - 데모오피스 세팅 자동화 처리
-        tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 동작 처리"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JAVA & Spring
+      - name: JAVA & Spring Boot
         level: 60%
 
       - name: PHP
-        level: 70%
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 60%
+        level: 50%
 
       - name: JavaScript
-        level: 60%
+        level: 50%
 
       - name: MySQL
-        level: 70%
+        level: 60%
 
       - name: Oracle
         level: 60%
