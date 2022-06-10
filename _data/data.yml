@@ -83,15 +83,14 @@ projects:
       My personal projects & Team projects
 
     assignments:
+      - title: Gabia - API 중계 Proxy 서버 구축, 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리
+          tagline: "Java, SpringBoot, Sentry"
 
-    - title: Gabia - API 중계 Proxy 서버 구축, 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리
-        tagline: "Java, SpringBoot, Sentry"
+      - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
+          tagline: "PHP, Laravel"
 
-    - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
-        tagline: "PHP, Laravel"
-
-    - title: Gabia - 데모오피스 세팅 자동화 처리
-        tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
+      - title: Gabia - 데모오피스 세팅 자동화 처리
+          tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
 
       - title: GoodDoc - 의료시설 리뷰 및 정보조회 웹페이지 개발
           # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
