@@ -84,8 +84,8 @@ projects:
 
     assignments:
 
-    - title: Gabia - API 중계 Proxy 서버 구축
-        tagline: "인증없는 구 API들을 사용하기 위한 Ingress를 통한 인증 layer 아래에서 동작. 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리 - Java, SpringBoot, Sentry"
+    - title: Gabia - API 중계 Proxy 서버 구축, 사용자 정보 및 해당 API에 요청할 request data를 각 end-point별 Content-Type에 맞게 파싱 처리
+        tagline: "Java, SpringBoot, Sentry"
 
     - title: Gabia - 상품개편 - 상품 신청, 주문서 데이터 조회 등에 필요한 API 개발
         tagline: "PHP, Laravel"
