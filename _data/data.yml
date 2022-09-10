@@ -31,6 +31,12 @@ sidebar:
         link:
 
 award:
+    - name: KURLY HACK FESTA 2022
+      time: 2022 August
+      location: Kurly
+      details: |
+        - An extension App for recommendation based on user action - Java, SpringBoot, JPA, Jsoup, Kafka
+
     - name: 2020 Naver Burning Day
       time: 2020 February
       location: Naver
@@ -92,6 +98,12 @@ projects:
       - title: Gabia - 데모오피스 세팅 자동화 처리
         tagline: "TypeScript를 활용한 cron script 작성, Puppeteer 및 각 API를 사용한 자동화 처리"
 
+      - title: ARS - 사용자 행동 기반 추천시스템 확장웹앱 개발
+          # An extension App for recommendation based on user action - Java, SpringBoot, Jsoup, Kafka
+          link: "https://github.com/kurly-hackathon-ars"
+          tagline: "Java, SpringBoot, Jpa, Kafka, Jsoup"
+          # "Action Based Recommendation System with Chrome Extension App"
+
       - title: GoodDoc - 의료시설 리뷰 및 정보조회 웹페이지 개발
         # A SNS Web Service for reviews about medical treatment  - Vue.js, Java, Spring
         link: "https://github.com/myh9410/GoodDoc-Proj"
@@ -139,7 +151,7 @@ skills:
         level: 60%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 40%
 
       - name: JavaScript
         level: 50%
